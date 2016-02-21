@@ -1,3 +1,6 @@
 # Lab2 preview report
-ver_0
+Introduce Kermit
+Introduce TFTP
+Introduce Kernal
+Introduce Ramdisk
 
